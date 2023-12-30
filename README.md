@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Céline
-- 👀 I’m interested in fullstack engineering
-- 🌱 I’m currently learning cybersecurity and cloud computing
+- 👀 I’m interested in fullstack engineering, DevOps and CyberSecurity
+- 🌱 I’m currently learning a Master 2 student studying cybersecurity and cloud computing
 - 📫 How to reach me celineliu1811@gmail.com
 
 <!---
